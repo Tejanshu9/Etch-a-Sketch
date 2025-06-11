@@ -30,13 +30,15 @@ This is a fully functional Etch-a-Sketch application built with pure HTML, CSS, 
 
 ---
 
+## 🌐 Deployment
+The project is deployed using GitHub Pages.
+👉 To run directly, click the link in the About section of this repository.
+
+---
+
 ## 📦 How to Run Locally
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/Tejanshu9/Etch-a-Sketch.git
 
-
-## 🌐 Deployment
-The project is deployed using GitHub Pages.
-👉 To run directly, click the link in the About section of this repository.
