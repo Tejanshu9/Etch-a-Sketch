@@ -31,8 +31,8 @@ This is a fully functional Etch-a-Sketch application built with pure HTML, CSS, 
 ---
 
 ## 🌐 Deployment
-The project is deployed using GitHub Pages.
-👉 To run directly, click the link in the About section of this repository.
+- The project is deployed using GitHub Pages.
+- To run directly, click the link in the About section of this repository.
 
 ---
 
